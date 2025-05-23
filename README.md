@@ -12,22 +12,30 @@ A real-time dashboard for monitoring restaurant operations. Follow the steps bel
 
 ---
 
-## Setup Instructions
+### Setup Instructions
 
-### 1. Clone the Repository
+## Clone the Repository
 
-git clone
+git clone https://github.com/Chiyako-bre/Restaunax.git
 
 
-##Run the APP
+## Run the APP
 
 cd backend
 
 npm install
 
 npx prisma generate
+ //generate prisma client
+ 
+npm start
+
+ //You will see the comment Serer is running on 5000
+
 
 cd../ restaunax-frontend
+
+ start  frontend
 
 
 
