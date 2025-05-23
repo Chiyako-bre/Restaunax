@@ -1,13 +1,35 @@
-#Getting started with Restaunax real-time dashboard
-##Requirement
-Node.js (v14 or higher)
-npm (v6 or higher)
-PostgreSQL
-## Let's start wwith running the backend
-Please open your cmd(not the powershell) direct into following steps.
-### cd backend
-npm install
-npx prisma generate
-cd ../restaunax-frontend
+# Restaunax Real-Time Dashboard
+
+A real-time dashboard for monitoring restaurant operations. Follow the steps below to set up the backend and frontend.
+
+---
+
+## Prerequisites
+
+- **Node.js** (v18 or higher)
+- **npm** (v6 or higher)
+- **PostgreSQL** (v12 or higher)
+
+---
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+git clone
+
+
+##Run the APP
+
+cd backend
+
 npm install
 
+npx prisma generate
+
+cd../ restaunax-frontend
+
+
+
+
+    
